@@ -1,0 +1,3 @@
+cohort,mean_auc,bootstrap_low,bootstrap_high,draws,scope
+antalya,0.5359120415214909,0.5119847764171811,0.5586873274154607,2000,conditional on submitted release and sampled attack candidates
+bwh,0.5269593314924315,0.5021310124477729,0.5515449478812763,2000,conditional on submitted release and sampled attack candidates

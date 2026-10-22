@@ -1,0 +1,1005 @@
+{
+  "antalya/poor_response/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 129343501006265595251913085795064831959,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/poor_response/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 91665610474063663073769043234564153246,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/poor_response/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 61737690418580336119639505160697604203,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/poor_response/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 135827237737847911114701462009407059932,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_response/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 261177161238620393807244656098020109516,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_response/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 297241569230845477987126894115403867772,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_response/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 290277818862524079972700869997393912812,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_response/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 135077302539238563779520208641724052719,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/egg_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 628876150299764733693399080754048949,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/egg_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 160005949463858213402733368691483970826,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/egg_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 172663749934617402302407919868335605121,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/egg_count/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 47224749281201131507772156529988828549,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_maturation/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 247493017363628952741684166122069362529,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_maturation/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 283065787956012095607078406727744681804,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_maturation/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 18253437188912686656014493134778884384,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/high_maturation/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 112970674181022273601834302317393705761,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/mii_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 275931687509929134905750919253073302912,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/mii_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 234983276581525212367845615094210717229,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/mii_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 80119276123744407766699110320784898943,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/mii_count/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 335312572399776964449313839977128782051,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/fertilized_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 35196524003268995469861219184621059852,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/fertilized_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 281000892311940170128387586272793217735,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/fertilized_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 126634769369525235218246038821789045197,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/fertilized_count/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 59598175840186651418099841758390188231,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/blastocyst_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 98074366852703951007229753084817569114,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/blastocyst_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 241821631608099474625008655831591040326,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/blastocyst_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 121029515777831331634667551871367658352,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/blastocyst_count/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 54746138013048212217974236937203929883,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/frozen_blastocyst_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 290280704524631491982292409501528630614,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/frozen_blastocyst_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 59313103271303888742725561144890816674,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/frozen_blastocyst_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 88652162099092651278562462088564786320,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/frozen_blastocyst_count/direct_stage/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 320106435121591092328900030235970044301,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      263,
+      263,
+      263
+    ]
+  },
+  "antalya/first_fet_live_birth/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 201093016241927375123629509329480821634,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      258,
+      261,
+      262
+    ]
+  },
+  "antalya/first_fet_live_birth/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 85414006123539092639402740928639985405,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      258,
+      261,
+      262
+    ]
+  },
+  "antalya/first_fet_live_birth/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 176385383809162174534368875382023676094,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      263,
+      258,
+      261,
+      262
+    ]
+  },
+  "bwh/poor_response/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 293424914371307737200804170347823973039,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/poor_response/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 286571266222474340623493676874380006755,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/poor_response/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 271808731866660699501880306339650721577,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/high_response/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 340199781184685188320213196182047250597,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/high_response/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 223973929130954025487855433435293905898,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/high_response/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 194169948483402391183977869780811507645,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/high_maturity/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 287979226136957160001081139162002530028,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/high_maturity/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 2740617287355275149360169817535340411,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/high_maturity/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 2019836674723560082846262717021492050,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/transfer/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 79894358042392625887374125988496761359,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/transfer/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 143548626832028389191212200288129600508,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/transfer/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 203666490168403042492897957247765056025,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/observation/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 274841369589832410214006291010731180954,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/observation/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 2854354760977448591143635752712195280,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/observation/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 181055223296850799253017925950236942111,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/live_birth/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 169276706495498061317489802074380943865,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      853,
+      848,
+      852,
+      854
+    ]
+  },
+  "bwh/live_birth/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 265958904864558932844143430456726358229,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      853,
+      848,
+      852,
+      854
+    ]
+  },
+  "bwh/live_birth/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 152511445454403100699717946948695369579,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      853,
+      848,
+      852,
+      854
+    ]
+  },
+  "bwh/egg_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 328512083990764688501944276944517314981,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/egg_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 247844508175999273985855445395185417768,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/egg_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 245893306920999698589326426527458075552,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/mii_count/sc_ivf_1x_fixed/sc_ivf_20x_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 319368067436646927455327575428766516598,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/mii_count/real_tuned_iter/real_fixed": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 145480177580508714989055997355035115593,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  },
+  "bwh/mii_count/sc_ivf_20x_fixed/real_tuned_iter": {
+    "state": {
+      "bit_generator": "PCG64",
+      "state": {
+        "state": 170660373308826379193533585931876290310,
+        "inc": 144004239218296129848215431320266056969
+      },
+      "has_uint32": 0,
+      "uinteger": 0
+    },
+    "fold_patients": [
+      942,
+      942,
+      942,
+      942
+    ]
+  }
+}

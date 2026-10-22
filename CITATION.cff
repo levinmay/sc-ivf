@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the paper when using this code."
+title: "Stage-Conditional Synthetic IVF Records for Predictive Modeling"
+type: software
+authors:
+  - family-names: Levin
+    given-names: May
+  - family-names: Lio
+    given-names: Pietro
+version: 1.1.0
+license: MIT
+references:
+  - type: conference-paper
+    title: "Stage-Conditional Synthetic IVF Records for Predictive Modeling"
+    authors:
+      - family-names: Levin
+        given-names: May
+      - family-names: Lio
+        given-names: Pietro
+    year: 2026
+    conference:
+      name: "GenAI for Health Workshop at NeurIPS 2026"
+    url: "https://openreview.net/forum?id=eyaaR7i3OF"
